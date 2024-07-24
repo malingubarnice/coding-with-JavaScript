@@ -1,0 +1,63 @@
+.people-text{
+    font-size: 100px;
+    font-weight: 200;
+    color: rgb(228, 213, 213);
+    text-align:center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+}
+
+#people-text{
+    background: rgb(114, 84, 84);
+}
+/*styling the h2 element*/
+.count{
+    text-align: center;
+    color:rgb(180, 171, 171);
+    text-align: center;
+    font-size: 100px;
+    border-radius: 20px;
+}
+
+/*styling the increment button*/
+.increment-btn{
+    color: rgb(10, 10, 10);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 200px;
+}
+#increment-btn{
+    background: white;
+}
+
+/*styling the save button*/
+.save{
+    color: rgb(10, 10, 10);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 200px;
+
+}
+
+#save{
+    background: white;
+
+}
